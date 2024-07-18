@@ -4,5 +4,5 @@
 
 !["Alt text"](coffe.PNG)
 
-## coffee shop analysis :
+## stock market analysis :
 !["Alt text"](stock.PNG)
