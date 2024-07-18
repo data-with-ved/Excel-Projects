@@ -6,3 +6,7 @@
 
 ## stock market analysis :
 !["Alt text"](stock.PNG)
+
+## Store market analysis :
+!["Alt text"](store.PNG)
+
